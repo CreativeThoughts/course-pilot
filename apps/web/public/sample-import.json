@@ -1,0 +1,83 @@
+{
+  "students": [
+    {
+      "id": "DEMO001",
+      "name": "Alex Example",
+      "course": "BBIS",
+      "completed": "BIS101",
+      "in_progress": "BIS102",
+      "failed": "",
+      "enrolment_interests": "BIS103,BIS104",
+      "coe": "2027-06-30",
+      "completion": "2027-06-30"
+    },
+    {
+      "id": "DEMO002",
+      "name": "Jordan Example",
+      "course": "BBIS",
+      "completed": "BIS101,BIS102,BIS103,BIS104,BIS201",
+      "in_progress": "",
+      "failed": "",
+      "enrolment_interests": "",
+      "coe": "2027-06-30",
+      "completion": "2027-06-30"
+    },
+    {
+      "id": "DEMO003",
+      "name": "Casey Example",
+      "course": "BBIS",
+      "completed": "BIS101",
+      "in_progress": "",
+      "failed": "",
+      "enrolment_interests": "BIS102,BIS103,BIS104,BIS201",
+      "coe": "2027-12-31",
+      "completion": "2027-12-31"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "SESSION0",
+      "course": "BBIS",
+      "subject": "BIS102",
+      "group": "A",
+      "day": "Monday",
+      "start": "09:00",
+      "end": "12:00",
+      "lecturer": "Demo Lecturer 1",
+      "room": "Room 1"
+    },
+    {
+      "id": "SESSION1",
+      "course": "BBIS",
+      "subject": "BIS103",
+      "group": "A",
+      "day": "Tuesday",
+      "start": "09:00",
+      "end": "12:00",
+      "lecturer": "Demo Lecturer 2",
+      "room": "Room 2"
+    },
+    {
+      "id": "SESSION2",
+      "course": "BBIS",
+      "subject": "BIS104",
+      "group": "A",
+      "day": "Wednesday",
+      "start": "09:00",
+      "end": "12:00",
+      "lecturer": "Demo Lecturer 3",
+      "room": "Room 3"
+    },
+    {
+      "id": "SESSION3",
+      "course": "BBIS",
+      "subject": "BIS201",
+      "group": "A",
+      "day": "Thursday",
+      "start": "09:00",
+      "end": "12:00",
+      "lecturer": "Demo Lecturer 4",
+      "room": "Room 4"
+    }
+  ]
+}
